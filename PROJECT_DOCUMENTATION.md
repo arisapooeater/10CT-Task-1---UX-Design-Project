@@ -39,7 +39,7 @@ List the software, platforms, and tools you plan to use (e.g., Adobe XD, Unity, 
 Explain why each of the above are suitable for your project.
 
 #### Initial Brainstorming
-
+![Brainstorm Image](./images/Brainstorm.png)
  --------
 ### Requirements Specification
 #### Functional Requirements
@@ -52,11 +52,17 @@ Test Cases
 ### Social, Ethical and Legal Issues
 ## Researching and Planning
 ### Gantt Chart
+----
 ### Research Existing UIs
+----
 ### Research Software Options
+----
 ### Wireframes
+
 ## Producing and Implementing
 ## Testing and Evaluating
 ### User Testing and Feedback
+---
 ### Ongoing Evaluation
+---
 ### Final Evaluation
