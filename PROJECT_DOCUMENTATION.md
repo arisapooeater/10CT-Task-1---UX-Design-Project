@@ -38,18 +38,13 @@ I chose to go with the pigoon organ shopping catalogue as I believe it is the mo
 This prototype website will allow users to the MaddAddam series' themes of genetic modification through an interactive shopping catalogue of pigoon(genetically engineered pigs with a combination of pig and human genes) organ transplants. This will allow fans of Margaret Atwood and this series to wholly engage with the dark themes within this series and explore what a world such as the dystopia within MaddAddam would be like to experience and live in.
 
 #### Use Cases
-- **Pigoon Shopping Catalogue:** This is the first page that loads when a user enters this website, where they can scroll through and click on various items 
-- **OrganInc Farm About Us:** Users can click on the website logo icon and be led to an about us about OrganInc Farms (based on lore in book)
-- **Interactive Pigoon Diagram:**
-- **Hall of Achievements (The genetically modified animal gallery):**
-
-
-Identify at least four key user interactions (e.g., "Users will select a character to view their backstory" or "Users can participate in a genre-themed quiz").
-
-Include a brief user journey for each use case, explaining how users will navigate the app.
+- **Pigoon Shopping Catalogue:** This is the first page that loads when a user enters this website, where they can scroll through and click on various items. There will be a sidebar menu to the left where users can navigate and load different pages.
+- **OrganInc Farm About Us:** Users can click on the website logo icon on the sidebar menu and be led to an about us about OrganInc Farms (based on lore in book)
+- **Interactive Pigoon Diagram:** Users can click on a map icon on the sidebar menu and be led to a interactive diagram of a pigoon where users can hover over different parts and learn what they're used for through a little pop-up informational text.
+- **Hall of Achievements (The genetically modified animal gallery):** Users can click on a medal icon on the sidebar menu and be led to a gallery of images (aka. drawings) of all the different animals that have been genetically modified both canonically in the book and some of my own creation and can scroll through freely. 
 
 #### Test Cases
-- one
+- When user starts
 - two
 - three
 - four
@@ -62,12 +57,17 @@ Provide at least four examples
 
 ### Non-Functional Requirements
 #### Performance
+The system should load within 2-4 seconds (depending on if I develop a loading screen gif) and navigation between screens should occur within 1 second to ensure streamlined and natural-feeling interactions. The website should also include seamless transitions between screens such as fade ins, sliding panels or shared element transitions where needed.
+
 #### Usability 
-The website will have a consistent and cohesive design with a clear layout and accessible and readable font size to allow for easy navigation.
+The website will have a consistent and cohesive design, including a suitable colour palette with adequate contrast, proper heading structures and an overall clear layout to promote easy and intuitive navigation for users. Any fonts used should be legible and font sizes should be considered carefully to maintain optimal accessibility for a range of abilities.
 
 #### Reliability 
+The reliability of the system will be ensured through proper and rigorous testing of the website across different screen sizes and devices (although my website will not be compatible with mobile devices) by multiple users to address any bugs in the system. Additionally, if my website were to be published, I would also get legal permission from the rights holder to my chosen book, Margaret Atwood, to prevent any copyright infringement and confirm the information within my website is reliable and credible.
 
 #### Security
+My website should not collect any personal user information and perform proper data minimisation as sensitive data is not required for it to function. However, if my website were to be published (as I will be making it on Adobe XD for this project), the website should utilise HTTPS to provide security for any future sensitive data that is collected, the domain should be secured, and website admin access should be limited to only authorised individials such as myself to prevent cybercriminals from accessing and altering the website content and appearance. Furthermore, regular maintenance and updating will help keep the website secure from any malware or data breaches.
+
 --------
 ### Social, Ethical and Legal Issues
 Analyse all social impacts, ethical and legal responsibilities associated with
