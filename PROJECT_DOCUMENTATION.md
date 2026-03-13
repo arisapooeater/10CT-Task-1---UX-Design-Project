@@ -71,15 +71,16 @@ If launched, this application would be accessible to everyone as it will be a we
 - high colour contrast + font and font size accessibility
 - any warnings/restrictions for age (if content is sensitive)
 
-#### Potential 
-
-How does the project positively impact users (e.g., encouraging reading, fostering discussion within the book’s fan community)?
+#### Potential Benefits
+This project can positively impact users by encouraging more interaction with the dystopian genre and fostering a larger audience and fanbase for Margaret Atwood and her series MaddAddam. Through an immersive exploration into the series' ideas of genetic modification, it ultimately inspires deeper discusssions of the series and its ulterior implication.
 
 #### Potential Risks 
 The content of the website (focusing on pigoons and animal genetic modification) might be sensitive to certain cultures where pigs and other animals featured are seen as sacred animals such as Hinduism, Judaism, Islam etc. As Margaret Atwood's books are typically highly critical and accentuate specific aspects of society such as the prevalence of animal abuse and the framing of genetic modification as 'innovational' within this series, so it is pivotal the themes explored are both true to Atwood's intention and are tactfully presented as to not create any potential cultural insensitivity.
 
 ### Ethical Responsibilities
 #### User Data & Privacy
+The prototype will not collect any user data as it is not required for the system to function. However, if in future it were to collect any user data, I would ensure that sensitive personal information is not compromised by minimising data and anonymising
+
 Will the prototype collect user data? If so, how will it be handled responsibly?
 
 #### Representation & Inclusion
