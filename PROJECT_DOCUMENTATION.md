@@ -44,16 +44,10 @@ This prototype website will allow users to the MaddAddam series' themes of genet
 - **Hall of Achievements (The genetically modified animal gallery):** Users can click on a medal icon on the sidebar menu and be led to a gallery of images (aka. drawings) of all the different animals that have been genetically modified both canonically in the book and some of my own creation and can scroll through freely. 
 
 #### Test Cases
-- When user starts
-- two
-- three
-- four
-
-Outline expected behaviours of the user experience (e.g., "When the user selects 'Start Quiz,' the app will display the first question").
-
-Describe how you will test these features later (e.g., peer testing or self-testing).
-
-Provide at least four examples 
+- **Pigoon Shopping Catalogue:** Test via self-testing the page is scrollable and the layout of the catalogue is correct, and verifying that the sidebar menu is always visible and clicking everywhere to ensure links work and are triggered by only intended features.
+- **OrganInc Farm About Us:** Peer tests by clicking website logo icon and verify the link works, and scrolling through the page and reading to ensure that it is legible, understandable and immersive.
+- **Interactive Pigoon Diagram:** Peer tests by clicking map icon to ensure it leads to the pigoon diagram page, and then clicking every area of diagram, confirming that every link works and that no unintended area can trigger any pop-ups.
+- **Hall of Achievements (The genetically modified animal gallery):** Test via self-testing the gallery is scrollable, all images are loaded, and the layout looks as intended across multiple devices.
 
 ### Non-Functional Requirements
 #### Performance
@@ -69,9 +63,51 @@ The reliability of the system will be ensured through proper and rigorous testin
 My website should not collect any personal user information and perform proper data minimisation as sensitive data is not required for it to function. However, if my website were to be published (as I will be making it on Adobe XD for this project), the website should utilise HTTPS to provide security for any future sensitive data that is collected, the domain should be secured, and website admin access should be limited to only authorised individials such as myself to prevent cybercriminals from accessing and altering the website content and appearance. Furthermore, regular maintenance and updating will help keep the website secure from any malware or data breaches.
 
 --------
-### Social, Ethical and Legal Issues
-Analyse all social impacts, ethical and legal responsibilities associated with
-your project, including implications of the chosen book's content.
+### Social Impact
+#### Target Audience Considerations 
+If launched, this application would be accessible to everyone as it will be a website, however the target audience would be young adults/adults with an interest in dystopian fiction and Margaret Atwood's works. To ensure this website is usable for a variety of abilities and devices, accessibility features must be considered, including:
+- compatibility with a range of devices / usable without a mouse or keyboard
+- text to speech features + alt text for images
+- high colour contrast + font and font size accessibility
+- any warnings/restrictions for age (if content is sensitive)
+
+#### Potential 
+
+How does the project positively impact users (e.g., encouraging reading, fostering discussion within the book’s fan community)?
+
+#### Potential Risks 
+The content of the website (focusing on pigoons and animal genetic modification) might be sensitive to certain cultures where pigs and other animals featured are seen as sacred animals such as Hinduism, Judaism, Islam etc. As Margaret Atwood's books are typically highly critical and accentuate specific aspects of society such as the prevalence of animal abuse and the framing of genetic modification as 'innovational' within this series, so it is pivotal the themes explored are both true to Atwood's intention and are tactfully presented as to not create any potential cultural insensitivity.
+
+### Ethical Responsibilities
+#### User Data & Privacy
+Will the prototype collect user data? If so, how will it be handled responsibly?
+
+#### Representation & Inclusion
+Does the project fairly represent characters, themes, or ideas from the book?
+
+#### Content Sensitivity
+- yes some of the thematic content from the book i will be using is implicit of animal abuse, experimentation and monetisation.
+- it also touches on explicit topics like animal organ transplants 
+- i will make sure my website has a trigger warning at the very beginning for users who are sensitive to content similar to this, and ensure that there will be no explicit imagery and the drawings i create will be watered down so nothing is too realistic
+
+Does the book contain controversial topics (e.g., violence, discrimination), and how will the prototype handle these responsibly?
+
+### Legal Considerations
+#### Copyright & Intellectual Property:
+- no i am not using any book images, quotes or fan content and will be basing my website purely off content within the book series MaddAddam by Margaret Atwood. Any assets that will be within my website will be original and created by me.
+
+Are any book images, quotes, or fan content being used? If so, are they legally allowed under fair use or with permission?
+
+Will you create original assets, or do you need to credit external sources?
+
+#### Terms of Use
+If you were to launch this product, what legal regulations might apply? Have you investigated terms of use of the product?
+
+https://www.copyright.org.au/
+
+https://smartcopying.edu.au/
+
+https://creativecommons.org/
 
 ## Researching and Planning
 ### Gantt Chart
