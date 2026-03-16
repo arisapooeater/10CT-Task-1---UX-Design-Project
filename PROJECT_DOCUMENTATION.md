@@ -79,29 +79,23 @@ The content of the website (focusing on pigoons and animal genetic modification)
 
 ### Ethical Responsibilities
 #### User Data & Privacy
-The prototype will not collect any user data as it is not required for the system to function. However, if in future it were to collect any user data, I would ensure that sensitive personal information is not compromised by minimising data and anonymising
-
-Will the prototype collect user data? If so, how will it be handled responsibly?
+The prototype will not collect any user data as it is not required for the system to function. However, if in future it were to collect any user data, I would ensure that sensitive personal information is not compromised by minimising and anonymising data while also notifying to users what data will be collected for what purpose at the beginning of the program to ensure fully informed consent.
 
 #### Representation & Inclusion
-Does the project fairly represent characters, themes, or ideas from the book?
+This project focuses on one specific theme, animal genetic modification, that is found in the world of MaddAddam so it does not fairly represent the book series as a whole. It is meant to be an introductory immersive experience that act as means for users to find interest in Atwood's books and go read the full series for themselves, or for fans who would like to see what is like to live in the world of MaddAddam. However, to ensure that this website is kept relevant to the book series and not just some general idea, I will make sure that the 'OrganInc Farm About Us' and 'Hall of Achievements' mentions small aspects or hints to lore and the plotline in MaddAddam.
 
 #### Content Sensitivity
-- yes some of the thematic content from the book i will be using is implicit of animal abuse, experimentation and monetisation.
-- it also touches on explicit topics like animal organ transplants 
-- i will make sure my website has a trigger warning at the very beginning for users who are sensitive to content similar to this, and ensure that there will be no explicit imagery and the drawings i create will be watered down so nothing is too realistic
-
-Does the book contain controversial topics (e.g., violence, discrimination), and how will the prototype handle these responsibly?
+As it is written by Margaret Atwood, the series MaddAddam has a handful of controversial and sensitive ideas, and the thematic content I will be exploring for this project is implicit of animal abuse, experimentation and monetisation. As my website will touch on these explicit topics like animal organ transplants, I do not want to take away from Atwood's imagination so I will promote content sensitivity by putting a trigger warning that pops up when the user opens the website for sensitive users and confirming that the website content is not real and purely based of a fictional book series. Additionally, I will make sure any visual assets I create are neither too realistic or watered down from what Atwood has created in the series, to overall allow for a immersive yet moderated representation of Crake & Oryx.
 
 ### Legal Considerations
 #### Copyright & Intellectual Property:
-- no i am not using any book images, quotes or fan content and will be basing my website purely off content within the book series MaddAddam by Margaret Atwood. Any assets that will be within my website will be original and created by me.
-
-Are any book images, quotes, or fan content being used? If so, are they legally allowed under fair use or with permission?
-
-Will you create original assets, or do you need to credit external sources?
+I will not be using any book images, quotes or fan content for my website and will be basing it purely off content within the book series MaddAddam by Margaret Atwood. Additionally, any assets that will be used will be original and created by me on Procreate.
 
 #### Terms of Use
+If I were to launch this website, 
+- a
+-
+
 If you were to launch this product, what legal regulations might apply? Have you investigated terms of use of the product?
 
 https://www.copyright.org.au/
@@ -112,6 +106,7 @@ https://creativecommons.org/
 
 ## Researching and Planning
 ### Gantt Chart
+
 ### Research Existing UIs
 ### Research Software Options
 ### Wireframes
