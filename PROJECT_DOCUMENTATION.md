@@ -106,10 +106,42 @@ https://creativecommons.org/
 
 ## Researching and Planning
 ### Gantt Chart
+![Gantt Chart](./images/Ganttchart.png)
 
 ### Research Existing UIs
+In the Plus section, in full sentences, provide what you think is positive about the existing UI. Think about things like - What works well? It is easy to navigate? Is it quick? Is it aesthetically pleasing?
+
+In the Minus section, in full sentences, provide what you think is not so good about the existing UI. Think about things like - What doesn't work well? It is easy to navigate? Is it quick? Is it aesthetically pleasing?
+
+In Implication, we want to evaluate the prospects of pursuing this kind of UI. Look at the positive and negative points, then evaluate the implications of what you have learned from these for your project. How will this knowledge impact your project moving forward?
+
+| UI Name | Plus | Minus | Implications |
+|-|-|-|-|
+|1. | | | |
+|2. | | | |
+|3. | | | |
 ### Research Software Options
+In the Plus section, in full sentences, provide what you think is positive about using this software. Is it intuitive? Are you familiar with it? Is it easy to learn? Is it challenging? Is it fit for purpose?
+
+In the minus section, in full sentences, provide what you think is not so good about using this software. Is it intuitive? Are you familiar with it? Is it easy to learn? Is it challenging? Is it fit for purpose?
+
+In Implication, we want to evaluate the prospects of pursuing this software option. Look at the positive and negative points, then evaluate the implications of what you have learned from these for your project. How will this knowledge impact your project moving forward?
+
+| Software Option | Plus | Minus | Implications |
+|-|-|-|-|
+|1. | | | |
+|2. | | | |
+|3. | | | |
+
 ### Wireframes
+
+#### Peer Feedback
+
+Clarity – "Is the layout easy to understand?"
+
+Navigation – "Can you tell how a user would move through this experience?"
+
+Engagement – "Does the design look appealing and engaging for the target audience?"
 ## Producing and Implementing
 ## Testing and Evaluating
 ### User Testing and Feedback
