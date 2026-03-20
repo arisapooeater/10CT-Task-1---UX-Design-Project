@@ -88,21 +88,10 @@ This project focuses on one specific theme, animal genetic modification, that is
 As it is written by Margaret Atwood, the series MaddAddam has a handful of controversial and sensitive ideas, and the thematic content I will be exploring for this project is implicit of animal abuse, experimentation and monetisation. As my website will touch on these explicit topics like animal organ transplants, I do not want to take away from Atwood's imagination so I will promote content sensitivity by putting a trigger warning that pops up when the user opens the website for sensitive users and confirming that the website content is not real and purely based of a fictional book series. Additionally, I will make sure any visual assets I create are neither too realistic or watered down from what Atwood has created in the series, to overall allow for a immersive yet moderated representation of Crake & Oryx.
 
 ### Legal Considerations
-#### Copyright & Intellectual Property:
-I will not be using any book images, quotes or fan content for my website and will be basing it purely off content within the book series MaddAddam by Margaret Atwood. Additionally, any assets that will be used will be original and created by me on Procreate.
+#### Copyright & Intellectual Property + Terms of Use:
+This interactive website is an entertainment-based project inspired by Oryx & Crake by Margaret Atwood. As this website is neither affliated with nor endorsed by the author or her publishers, it is pivotal to take proactive steps before publishing to avoid copyright infringement. This includes integrating a clear disclaimer at the footer of every page of the site, and creating my own original assets to avoid accidentally using official art protected by the trademark law. I will not be using any book images, quotes or fan content for my website and will be basing it purely off content within the book series MaddAddam by Margaret Atwood. 
 
-#### Terms of Use
-If I were to launch this website, 
-- a
--
-
-If you were to launch this product, what legal regulations might apply? Have you investigated terms of use of the product?
-
-https://www.copyright.org.au/
-
-https://smartcopying.edu.au/
-
-https://creativecommons.org/
+Therefore, as all related content such as the characters, lore and settings from the book remain the intellectual property of the copyright holder (Margaret Atwood) and are protected under the Australian Copyright Act 1968, all references made to the book will be used in consideration with fair dealing principles outlined by Copyright Agency and with formal permission from Margaret Atwood if possible. Additionally, if I were to expand this website and update its features with any third-party material, they will be properly attributed or used under licences provided by Creative Commons. In this case, users will agree not to copy, reproduce, or distribute content from my site without permission, and where the creator (me) will not be liable for any misuse of the provided content. 
 
 ## Researching and Planning
 ### Gantt Chart
