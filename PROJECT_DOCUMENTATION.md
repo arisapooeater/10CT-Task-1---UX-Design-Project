@@ -106,9 +106,9 @@ In Implication, we want to evaluate the prospects of pursuing this kind of UI. L
 
 | UI Name | Plus | Minus | Implications |
 |-|-|-|-|
-|1. | | | |
-|2. | | | |
-|3. | | | |
+|1. North Sea Chefs | | | |
+|2. Cotton On | - like how th eimages move when ur cursor goes over it + | | |
+|3. Lusion |- i like how interactive the software is + cool transitions between screens + text is very large and readable accessible software | | |
 ### Research Software Options
 In the Plus section, in full sentences, provide what you think is positive about using this software. Is it intuitive? Are you familiar with it? Is it easy to learn? Is it challenging? Is it fit for purpose?
 
@@ -118,12 +118,14 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 
 | Software Option | Plus | Minus | Implications |
 |-|-|-|-|
-|1. | | | |
-|2. | | | |
-|3. | | | |
+|1. Adobe XD| | | |
+|2. HTML | | | |
+|3. Figma | | | |
 
 ### Wireframes
-
+![Main Screen - Shopping Catalogue Wireframe]
+![OrganInc Farm About Us Wireframe]
+![]
 #### Peer Feedback
 
 Clarity – "Is the layout easy to understand?"
