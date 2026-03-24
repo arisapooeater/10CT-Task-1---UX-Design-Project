@@ -106,9 +106,10 @@ In Implication, we want to evaluate the prospects of pursuing this kind of UI. L
 
 | UI Name | Plus | Minus | Implications |
 |-|-|-|-|
-|1. North Sea Chefs | | | |
-|2. Cotton On | - like how th eimages move when ur cursor goes over it + | | |
-|3. Lusion |- i like how interactive the software is + cool transitions between screens + text is very large and readable accessible software | | |
+|1. North Sea Chefs | interactive elements, cool transitions and animations (i like the swimming fish at the very bottom of the page) that are not too overstimulating + lots of visual imagery but well structured | i dont really have anything bad to say aabout this website, maybe perhaps the colour scheme has too much contrast for my liking? | |
+|2. Cotton On | - like how th eimages move when ur cursor goes over it + easy understandable structure for scrolling through items | too minimalistic for my taste as the black and white with lots of text almost makes it feel a bit cluttered (on the very top of the screen especially ) | |
+|3. Lusion |- i like how interactive the software is + cool transitions between screens + text is very large and readable accessible software | the animations are too overstimulating, i want mine to enhance the experience without distracting users from the websites purpose | |
+
 ### Research Software Options
 In the Plus section, in full sentences, provide what you think is positive about using this software. Is it intuitive? Are you familiar with it? Is it easy to learn? Is it challenging? Is it fit for purpose?
 
@@ -118,9 +119,9 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 
 | Software Option | Plus | Minus | Implications |
 |-|-|-|-|
-|1. Adobe XD| | | |
-|2. HTML | | | |
-|3. Figma | | | |
+|1. Adobe XD| lots of offline capabilities with superior animation tools like auto-animate + linked with adobe creative cloud so familiar UI and seamless transitions between other Adobe apps  | | |
+|2. HTML | creates an actual functional website | have to learn to code in HTML ==> debugging time  + more effort | |
+|3. Figma | has a broad variety of component libraries | | |
 
 ### Wireframes
 ![Main Screen - Shopping Catalogue Wireframe]
