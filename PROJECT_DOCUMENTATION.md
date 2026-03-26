@@ -120,13 +120,13 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 | Software Option | Plus | Minus | Implications |
 |-|-|-|-|
 |1. Adobe XD| lots of offline capabilities with superior animation tools like auto-animate + linked with adobe creative cloud so familiar UI and seamless transitions between other Adobe apps  | | |
-|2. HTML | creates an actual functional website | have to learn to code in HTML ==> debugging time  + more effort | |
+|2. HTML | creates an actual functional website | have to learn to code in HTML ==> debugging time  + more effort to create something of the same quality as Adobe XD or Figma | |
 |3. Figma | has a broad variety of component libraries | | |
 
 ### Wireframes
-![Main Screen - Shopping Catalogue Wireframe]
-![OrganInc Farm About Us Wireframe]
-![]
+![Main Screen - Shopping Catalogue Wireframe](./images/)
+![OrganInc Farm About Us Wireframe](./images/)
+![](./images/)
 #### Peer Feedback
 
 Clarity – "Is the layout easy to understand?"
@@ -134,8 +134,34 @@ Clarity – "Is the layout easy to understand?"
 Navigation – "Can you tell how a user would move through this experience?"
 
 Engagement – "Does the design look appealing and engaging for the target audience?"
-## Producing and Implementing
 ## Testing and Evaluating
+### Prototype 1
+### Prototype 2
+### Prototype 3
 ### User Testing and Feedback
-### Ongoing Evaluation
+
+### Ongoing Evaluation (weekly)
+
+Provide screenshots of your progress this week.
+
+Outline your progress this week, including key tasks completed and any challenges you encountered.
+
+Analyse the most important design or functionality decisions you made and justify your choices.
+
+Explain how you approached and resolved any difficulties or obstacles this week.
+
+Evaluate your time management and workflow—what strategies were effective, and what could be improved?
+
+Outline your priorities for next week—what specific areas need further development or refinement?
+
+
 ### Final Evaluation
+1. **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
+
+2. Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.
+
+3. Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.
+
+4. Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.
+
+5. Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
