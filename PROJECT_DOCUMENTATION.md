@@ -127,13 +127,21 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 ![Main Screen - Shopping Catalogue Wireframe](./images/)
 ![OrganInc Farm About Us Wireframe](./images/)
 ![](./images/)
-#### Peer Feedback
 
-Clarity – "Is the layout easy to understand?"
+#### Peer Feedback 
 
-Navigation – "Can you tell how a user would move through this experience?"
+**Raw Feedback from Vanessa and Yuna**
+| Usability | Aesthetics | Functionality |
+|-|-|-|
+|"I like how menu at top stays there"| "There's lots of images which I think is nice and will make it pretty" | "Yea it matches with your project purpose" |
+|"I don't understand what this pig is doing" | "Very structured and nice looking" | "I would recommend this website" |
+|"The hamburger menu is nice also maybe a back button would also be good" | "Maybe make About Us spread out cus its being hydraulic pressed"|
 
-Engagement – "Does the design look appealing and engaging for the target audience?"
+Yuna and Vanessa said the user interface design appears to be very engaging as it has lots of images and interactive elements. They said they like how the menu is at the top, which makes the application look more consistent and structured. However, some advice they gave me was to make text and features in the About Us more spread out as it allows the user to be able to scroll more. The wireframe with the pig diagram was also a bit confusing at first glance for them to comprehend, but once I explained they said they liked how engaging it seemed. 
+
+#### Evaluation of Peer Feedback
+Moving on, 
+
 ## Testing and Evaluating
 ### Prototype 1
 ### Prototype 2
