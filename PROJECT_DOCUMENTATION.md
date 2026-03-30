@@ -106,9 +106,11 @@ In Implication, we want to evaluate the prospects of pursuing this kind of UI. L
 
 | UI Name | Plus | Minus | Implications |
 |-|-|-|-|
-|1. North Sea Chefs | interactive elements, cool transitions and animations (i like the swimming fish at the very bottom of the page) that are not too overstimulating + lots of visual imagery but well structured | i dont really have anything bad to say aabout this website, maybe perhaps the colour scheme has too much contrast for my liking? | |
-|2. Cotton On | - like how th eimages move when ur cursor goes over it + easy understandable structure for scrolling through items | too minimalistic for my taste as the black and white with lots of text almost makes it feel a bit cluttered (on the very top of the screen especially ) | |
-|3. Lusion |- i like how interactive the software is + cool transitions between screens + text is very large and readable accessible software | the animations are too overstimulating, i want mine to enhance the experience without distracting users from the websites purpose | |
+|1. North Sea Chefs | The North Sea Chefs has several interactive elements, cool transitions and animations. I specifically like the swimming fish at the very bottom of the page, as well as how the marine animals change colours when you hover your cursor over it. Overall, these elements and visual imagery just help to nurture a more immersive UX without being too overstimulating. The structure of the website is also very consistent and easy to navigate, and the colours of the website are iconic and related to the website purpose. | I don't really have anything bad to say about this website, perhaps the colour scheme has too much contrast for my liking and the first image that pops up on the main menu is a bit blurry and pixelated, which negatively impacts UX. | Ultimately, I believe the North Sea Chefs website is a key example I will be referencing during this project as several elements and aspects specifically in the animations and transitions align with my project vision. Although this website's content is a bit different from my project's, with proper consideration of my project intention, I think I can integrate several ideas from North Sea Chefs into my application to improve its interactivity and immersiveness. |
+|2. Cotton On | I like how the images of the clothing move when your cursor hovers over it. The catalogue also has an easy, understandable structure and allows users to scroll intuitively. | The Cotton On website is too minimalistic for my taste as the monotone colour scheme together with buttons with lots of text make the interface feel very cluttered, especially at the top of the screen. | |
+|3. Lusion |Lusion has a very accessible software with large, readable text and has a very intuitive user journey. The software is also highly interactive and has very cool and high-tech transitions between screens. | I find some of the animations too overstimulating to the extent it distracts users from the website's purpose. | Lusion has an incredibly sophisticated website with 
+
+i want mine to enhance the experience without distracting users from the websites purpose  |
 
 ### Research Software Options
 In the Plus section, in full sentences, provide what you think is positive about using this software. Is it intuitive? Are you familiar with it? Is it easy to learn? Is it challenging? Is it fit for purpose?
@@ -119,9 +121,9 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 
 | Software Option | Plus | Minus | Implications |
 |-|-|-|-|
-|1. Adobe XD| lots of offline capabilities with superior animation tools like auto-animate + linked with adobe creative cloud so familiar UI and seamless transitions between other Adobe apps  | | |
-|2. HTML | creates an actual functional website | have to learn to code in HTML ==> debugging time  + more effort to create something of the same quality as Adobe XD or Figma | |
-|3. Figma | has a broad variety of component libraries | | |
+|1. Adobe XD| Has a variety of offline capabilities with superior animation tools like auto-animate. It is also linked with Adobe Creative Cloud so will allow for seamless transitions between other Adobe apps (if I plan to use any). I can also access a lot of tutorials on using Adobe XD. | I am not familiar with Adobe XD so it may be challenging to get used as there are a lot of functions. |
+|2. HTML | HTML actually allows me to create a functional website so the project would be more accessible and easy to run. | I have to learn to code in HTML, which requires more effort and debugging time to create something of the same quality as on Adobe XD or Figma | HTML is probably the least rational choice out of my software options largely due to the time constraints of this project. Although creating an actual website could be rewarding, it is just too time consuming for the |
+|3. Figma | Figma has a broad variety of component libraries and there are plenty of Figma tutorials within the app itself. It is also a web-based application so I can access it from any device without downloading (which means I can work from my Chromebook) | Figma is internet dependent so I cannot work on it offline and users report that large files can lead to a lot of lagging and crashing. | |
 
 ### Wireframes
 ![Main Screen - Shopping Catalogue Wireframe](./images/)
@@ -140,7 +142,12 @@ In Implication, we want to evaluate the prospects of pursuing this software opti
 Yuna and Vanessa said the user interface design appears to be very engaging as it has lots of images and interactive elements. They said they like how the menu is at the top, which makes the application look more consistent and structured. However, some advice they gave me was to make text and features in the About Us more spread out as it allows the user to be able to scroll more. The wireframe with the pig diagram was also a bit confusing at first glance for them to comprehend, but once I explained they said they liked how engaging it seemed. 
 
 #### Evaluation of Peer Feedback
-Moving on, 
+Moving on, Vanessa and Yuna have 
+
+
+Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements.
+
+Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
 
 ## Testing and Evaluating
 ### Prototype 1
