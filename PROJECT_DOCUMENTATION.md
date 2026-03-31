@@ -115,9 +115,9 @@ Therefore, as all related content such as the characters, lore and settings from
 
 
 ### Wireframes
-![Main Screen - Shopping Catalogue Wireframe](./images/)
-![OrganInc Farm About Us Wireframe](./images/)
-![](./images/)
+![Main Screen - Shopping Catalogue Wireframe](./images/wireframe1.jpg)
+![OrganInc Farm About Us Wireframe](./images/wireframe2.jpg)
+![Animal Gallery + Interactive Diagram Wireframe](./images/wireframe3.jpg)
 
 #### Peer Feedback 
 
