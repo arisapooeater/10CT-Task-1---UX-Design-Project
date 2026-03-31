@@ -131,12 +131,7 @@ Therefore, as all related content such as the characters, lore and settings from
 Yuna and Vanessa said the user interface design appears to be very engaging as it has lots of images and interactive elements. They said they like how the menu is at the top, which makes the application look more consistent and structured. However, some advice they gave me was to make text and features in the About Us more spread out as it allows the user to be able to scroll more. The wireframe with the pig diagram was also a bit confusing at first glance for them to comprehend, but once I explained they said they liked how engaging it seemed. 
 
 #### Evaluation of Peer Feedback
-Moving on, Vanessa and Yuna have 
-
-
-Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements.
-
-Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
+Moving on, Vanessa and Yuna have provided valuable insight into how my project design can be altered to promote better UX. While I initally focused on making the application seem visually appealing as possible, their responses conveyed how that is pointless if the user are confused about the meaning or layout. Additionally, they brought awareness specifically to areas in my program that lacked clarity and consistency, such as the 'pigoon' diagram or the poor use of space in the About Us and how it negatively impacted user engagement. I will ensure that I improve my design by implementing this feedback by spacing these images out more and also providing context for any visual elements I include. Ultimately, their feedback conveyed to me that I need to be more deliberate with my design decisions and how they will contribute to a better and more accessible user experience, and I will make sure to keep their advice in mind and apply them as I continue moving forward with this project. 
 
 ## Testing and Evaluating
 ### Prototype 1
