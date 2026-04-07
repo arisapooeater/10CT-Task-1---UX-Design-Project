@@ -135,13 +135,75 @@ Moving on, Vanessa and Yuna have provided valuable insight into how my project d
 
 ## Testing and Evaluating
 ### Prototype 1
+#### User Testing and Feedback
+**Feedback Method 1: Interview**
+Whilst probably the most onerous to complete as you would need to likely do this in person, an interview is likely the most appropriate for direct user testing. The key difference between an interview and a questionnaire is that whilst you will likely have a similar set of questions, in an interview you can ask follow-up questions and clarify certain answers. As well as this, you could have the user test and give feedback in the same session. 
+
+The drawback of this is that it is more difficult to do via the Internet and you would likely be best suited to interview somebody in person so they can test and provide immediate feedback. 
+
+**Feedback Method 2: Questionnaire**
+You could develop a set of targeted questions as part of a questionnaire to send to a specific set of potential users from the target market. 
+
+The benefit of this is that you can gather in-depth responses, suggestions and feedback on the specifics of your UX, and all of this could just be answered on a Google Doc / through an email. 
+
+The only drawback is that it is difficult to prompt with follow-up questions and we still face the barrier to testing for some UX projects.
+#### User Testing Evaluation
+Analyse the key themes that emerged from user feedback and their overall impact on the project.
+
+Evaluate how intuitive and user-friendly the prototype was based on user feedback.
+
+Analyse whether the design elements and accessibility features effectively met user needs.
+
+Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
+
+Analyse the similarities and differences between survey responses and interview insights to identify patterns.
+
+Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
+
 ### Prototype 2
+#### User Testing and Feedback
+#### User Testing Evaluation
+Analyse the key themes that emerged from user feedback and their overall impact on the project.
+
+Evaluate how intuitive and user-friendly the prototype was based on user feedback.
+
+Analyse whether the design elements and accessibility features effectively met user needs.
+
+Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
+
+Analyse the similarities and differences between survey responses and interview insights to identify patterns.
+
+Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
+
 ### Prototype 3
-### User Testing and Feedback
+#### User Testing and Feedback
+#### User Testing Evaluation
+Analyse the key themes that emerged from user feedback and their overall impact on the project.
+
+Evaluate how intuitive and user-friendly the prototype was based on user feedback.
+
+Analyse whether the design elements and accessibility features effectively met user needs.
+
+Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
+
+Analyse the similarities and differences between survey responses and interview insights to identify patterns.
+
+Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
 
 ### Ongoing Evaluation (weekly)
+**5/04/26 T1 Week 10**
+| Term(x) Week(y) | Screenshots | Progress Report|
+|-|-|-|
+| T1 W10 |![T1 Week 10 Theory Progress](./images/T1W10.png) ![T1 Week 10 Theory Progress](./images/T1W10-1.png) ![T1 Week 10 Adobe XD Progress](./images/T1W10-2.png) | I finished all the theory work in the design stage of the SDLC, including the research and peer feedback and self evaluations of the wireframes. The most important design decision I've made so far is to utilise Adobe XD for my project, as it dictates what the final product will look like and defines what technical skills I need moving on for this project. I've already started Prototype 1 on Adobe XD but I'm planning to make some changes from my original wireframes based on feedback I was given. Overall, my time management hasn't been very good these past few weeks, but I haven't had any issues this week and I'm catching up which is good. Next week, I just need to focus on finishing prototype 1 and getting user testing and feedback ASAP so I can get started on prototype 2 before the holidays ends. |
+| Holiday W1 | | |
+| Holiday W2 | | |
+| T2 W1 | | |
+| T2 W2 | | |
+| T2 W3 | | |
+| T2 W5 | | |
 
-Provide screenshots of your progress this week.
+
+
 
 Outline your progress this week, including key tasks completed and any challenges you encountered.
 
