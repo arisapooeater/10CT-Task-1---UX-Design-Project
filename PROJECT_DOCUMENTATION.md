@@ -195,10 +195,8 @@ Evaluate the most critical areas for improvement and how they should be addresse
 | Term(x) Week(y) | Screenshots | Progress Report|
 |-|-|-|
 | T1 W10 |![T1 Week 10 Theory Progress](./images/T1W10.png) ![T1 Week 10 Theory Progress](./images/T1W10-1.png) ![T1 Week 10 Adobe XD Progress](./images/T1W10-2.png) | I finished all the theory work in the design stage of the SDLC, including the research and peer feedback and self evaluations of the wireframes. The most important design decision I've made so far is to utilise Adobe XD for my project, as it dictates what the final product will look like and defines what technical skills I need moving on for this project. I've already started Prototype 1 on Adobe XD but I'm planning to make some changes from my original wireframes based on feedback I was given. Overall, my time management hasn't been very good these past few weeks, but I haven't had any issues this week and I'm catching up which is good. Next week, I just need to focus on finishing prototype 1 and getting user testing and feedback ASAP so I can get started on prototype 2 before the holidays ends. |
-| Holiday W1 | | |
-| Holiday W2 | | |
-| T2 W1 | | |
-| T2 W2 | | |
+| T2 W1 |![T2 Week 1 Adobe XD Progress](./images/T2W1-1.png) | |
+| T2 W2 |![T2 Week 2 Adobe XD Progress](./images/T2W2-1.png)| |
 | T2 W3 | | |
 | T2 W5 | | |
 
