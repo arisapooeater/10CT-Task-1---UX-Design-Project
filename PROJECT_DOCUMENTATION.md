@@ -136,29 +136,19 @@ Moving on, Vanessa and Yuna have provided valuable insight into how my project d
 ## Testing and Evaluating
 ### Prototype 1
 #### User Testing and Feedback
-**Feedback Method 1: Interview**
-Whilst probably the most onerous to complete as you would need to likely do this in person, an interview is likely the most appropriate for direct user testing. The key difference between an interview and a questionnaire is that whilst you will likely have a similar set of questions, in an interview you can ask follow-up questions and clarify certain answers. As well as this, you could have the user test and give feedback in the same session. 
+**Received Feedback (from questionnaire)**
+| Questions | Yuna | Ayane |
+|--|--|--|
+| How easy is the layout to understand? (1-5) | 5 | 5 |
+| What do you think of the interface in terms of structure and its use of space? | The program uses the space very well and makes it really interesting due to the different designs on each page. Very visually appealing and nice to look at. Its very structured and easy to understand without being to confusing. Just the right about of complexity. | very structured and easy to understand and space is used well so there's no areas that feel too empty or too cluttered |
+| How intuitive do you find the interface? (1-5) | 5 | 4 |
+| What features affect how intuitive you find the interface? Did you have any issues when navigating? | It was really easy to navigate but i did mistake the logo and thought it was a button (but thats just me...). I think it would be nice to have a back button and a button to take you back to the main home screen so that the user wont have to continuously press the menu button to go back to the page before or the main page. But the menu button looked really pretty | no I didn't and the interface is mostly very intuitive and I can navigate it easily but I didnt know the animals were buttons in the splice nexus thing until you told me so I think there should be a clear indicator for that - I like the back buttons for the animal pages though |
+| What do you think of the interface in terms of response time and overall performance? | Fast response time with no lags and great overall performance. Very interactive and interesting and captivating. | fast but plain because it doesnt have much transitions |
+Do you have any other feedback? (in terms of performance, accessibility, structure etc.) | no | no |
 
-The drawback of this is that it is more difficult to do via the Internet and you would likely be best suited to interview somebody in person so they can test and provide immediate feedback. 
-
-**Feedback Method 2: Questionnaire**
-You could develop a set of targeted questions as part of a questionnaire to send to a specific set of potential users from the target market. 
-
-The benefit of this is that you can gather in-depth responses, suggestions and feedback on the specifics of your UX, and all of this could just be answered on a Google Doc / through an email. 
-
-The only drawback is that it is difficult to prompt with follow-up questions and we still face the barrier to testing for some UX projects.
 #### User Testing Evaluation
-Analyse the key themes that emerged from user feedback and their overall impact on the project.
-
-Evaluate how intuitive and user-friendly the prototype was based on user feedback.
-
-Analyse whether the design elements and accessibility features effectively met user needs.
-
-Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
-
-Analyse the similarities and differences between survey responses and interview insights to identify patterns.
-
-Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
+The feedback I received from my quesetionnaire was mostly positive, but I also received a lot of valuable insight in improving the UX moving forward with the project. Both responses outlined that the prototype is highly intuitive and user-friendly, with slight areas of improvement in terms of navigation (making a back button, making the logo a button). They stated that the design elements are very interesting and interactive, however it was not as accessible as it could be as it lacked clarity in how to interact with some of the elements such as the Splice Nexus.
+The advice I received from questionnaire responses were quite similar, as they both highlighted how they liked the layout but found some weaknesses in the interface's intuitiveness, which emphasises to me that for my prototype 2, I need to focus on bringing more clarity in user navigation and optimising features so the UI is not only interactive, but convenient/easy to use.
 
 ### Prototype 2
 #### User Testing and Feedback
