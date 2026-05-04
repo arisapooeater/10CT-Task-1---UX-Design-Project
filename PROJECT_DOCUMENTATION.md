@@ -207,10 +207,14 @@ Outline your priorities for next week—what specific areas need further develop
 ### Final Evaluation
 1. **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
 
-2. Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.
+2. **Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.**
 
-3. Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.
+3. **Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.**
 
-4. Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.
+4. **Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.**
 
-5. Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
+Overall, I believe my self-management during this project was satisfactory, although there are improvements I could make for next time, especially during the first few weeks of this assignment.
+- time management was good, at least for the practical part of this project as I finished my prototypes before TAS trip - i was very slow doing theory cus i was lazy which swlowled a lot of my progress during th beginning and made me do more stuff at home
+-
+
+5. **Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.**
