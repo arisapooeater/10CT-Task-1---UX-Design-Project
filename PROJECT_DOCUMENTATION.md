@@ -152,6 +152,17 @@ The advice I received from questionnaire responses were quite similar, as they b
 
 ### Prototype 2
 #### User Testing and Feedback
+vanessa:
+I like the consistent user warnings for example at the very start and also how its on the end of every single page
+also i like how u guide people to click the elemtns so its very easy to use and navigate 
+i like how the thingy on the pigs the oragns are like halftones so u know where to press and the layering is also really cool
+the fade at the end of each page is really nice idk your graphicsx so good bro
+i like how the top bar is consistent so u can quickly and conveniently switch and i love love the animations it makes it feel aniamted and jumpy and its cool
+
+yuna
+I like how you can click the organs for more information really cool and also how if you go back to the homescreen it like comes out form the top. i like ho everything is structured really well and veyr engaging. Alo very good drawings and i like thr trigger warning a lot. maybe make it so that if you press the logo you can also come back to the home screen?? very nive that you also put lik a fictional warning thing at the bototm of your screen. i also like how you can get more infromation itno the nimals by clicking them but the transitions can get a little bit dizzy but other than that its really nice. maybe put the click me thing at the top next to the first animal and not the last?? so that they can click as they go down not go down and then do it?? idk. maybe also find a way to get from the "splice nexus" to the 'about us; oage in one go without using the menu like a back button or smth. anywys rlly nice. heh i like it alot. its like on par with the one you can find online. nice. 
+
+
 #### User Testing Evaluation
 Analyse the key themes that emerged from user feedback and their overall impact on the project.
 
