@@ -204,15 +204,47 @@ Evaluate the most critical areas for improvement and how they should be addresse
 
 ### Final Evaluation
 1. **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
+functional - 
+
+non functional - 
+
+stated purpose - 
+
+use case flows - 
+
+expected behaviours - 
+
+usability - 
+
+performance - 
+
+reliability - 
+
+security considerations - 
 
 2. **Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.**
+- i like how my project really centralised on genetic modification while mentioning small lore points and capturing the dystopian aspect of the series, which was my main goal in my design brief 
+BUT
+i failed to make an interactive catalogue that users can order from as adobe xd is simply too limited for moderately beginner users like myself to create that
+i planned in my head that when they click an item, there will be a notification that goes to cart like a lot of shopping sites, but after a lot of research i couldnt find any methods in doing so on adobe xd
+i think my website is quite suitable for my target audience, as its very visually appealing and modern looking, which i think my teenager to young adult range i was aiming for will be drawn to and theres no overly large bodies of writing, which aligns with what i intended in the design brief
+i think it couldve dove a little deeper into dystopian themes, especially for the graphics as i did plan more uncanny looking stuff but i decided not to as i considered the time I had due to the tasmania trip
 
 3. **Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.**
+- on every footer i have addressed and gave legal credit to margaret atwood and her series which i think allows for clear and direct communication of my legal responsibilities
+- in terms of ethical i think i was very responsible as i added a clear trigger warning stating any themes that may concern users and gave them a button to select if they were consensual to continuing to interact with my project. i also made sure to also state at the footers that all the content is fictional to ensure users understand any concerning content is purely for entertainment and is not for any educational purposes
+- social - i think i neglected to consider my social responsiblities the most as although most of my text is quite readable, some areas are very small which erodes usability. i like that my colour palette is visually contrasting as its not only appealing but inclusive to people with poor vision. next time i think i could add audio sounds as well as text to speech buttons to ensure all users are immersed
 
 4. **Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.**
 
 Overall, I believe my self-management during this project was satisfactory, although there are improvements I could make for next time, especially during the first few weeks of this assignment.
-- time management was good, at least for the practical part of this project as I finished my prototypes before TAS trip - i was very slow doing theory cus i was lazy which swlowled a lot of my progress during th beginning and made me do more stuff at home
--
+- time management was good, at least for the practical part of this project as I finished my prototypes before TAS trip - i was very slow doing theory cus i was lazy which swlowled a lot of my progress during th beginning and made me do more stuff at home but i locked in before tasmania and finished it in time
+- so althought it was very inconsistent, i finished quite early and i was able to discipline myself and finished some milestones early
+- i got more consistent as i split tasks and wrote them in my diary and set smaller milestones to stop my procrastination
 
 5. **Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.**
+- gathered through questionnaire first, then interviews - they were able to point out small details i didnt realise and i was able to draw valuable insight MOST of the time. especially the first prototype they helped me redirect my project to have more clarity which influenced a lot of my design decisions such as the click me icons and explanation throughout the website
+- i found by receiving feedback from the same ppl for most of the prototypes (excluding sudden sister appearance) made feedback more narrow and so it was not the most effective way of gathering feedback even if it was the most efficient for me 
+
+-i think my product can still be improved in terms of its content as well as its functionality, as the content i dont think is very well-written and i think i could've referenced a lot more of the content within MaddAddam if I read it again as I was forgetting a lot of how things connected by the end of the project.
+- as i said about functionality, i wish things like the pig diagram worked like the websites i referenced in my research like how it turns into grey halftones for organs (which i had originally planeed but failed to do) but i found that adobe xd was quite restricted adn didnt allow that and i could not figure out how to get the hover state to work. next time i probably need to do more detailed adobe xd tutorials and maybe find some resources online to guide me when im struggling as i neglected that a lot
