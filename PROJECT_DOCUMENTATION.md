@@ -198,23 +198,27 @@ Evaluate the most critical areas for improvement and how they should be addresse
 
 ### Final Evaluation
 1. **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
-functional - 
+functional - i got everything except the pigoon shopping catalogue as i was restricted in terms of experience with the program and resources that could get me the effect i wanted
 
-non functional - 
+This prototype website will allow users to the MaddAddam series' themes of genetic modification through an interactive shopping catalogue of pigoon(genetically engineered pigs with a combination of pig and human genes) organ transplants. This will allow fans of Margaret Atwood and this series to wholly engage with the dark themes within this series and explore what a world such as the dystopia within MaddAddam would be like to experience and live in.
+stated purpose - the final application addresses the stated purpose, but very minimally. the shopping catalogue is not interactive. i believe that i was not able to immerse users fully in its 'dark' themes, it does seem a bit dystopian but i dont think it captures the essence that margaret atwood was creating in maddaddam
 
-stated purpose - 
 
 use case flows - 
 
 expected behaviours - 
 
-usability - 
 
-performance - 
 
-reliability - 
 
-security considerations - 
+non functional - 
+usability - has consistent design and the colour palette red and white is suitable to the organ theme (looks medical) and is highly contrasting. it also has proper heading structure and a clear layout. the font is legible, however the sizing varies and is quite unreadable for people with vision impairements
+
+performance - is good, i included transitions for every page and it feels veyr fluid, it has a loading screen after the rigger warning whihc is nice i think
+
+reliability -no bro this is too much i dont have tha tmany screens bro i dreamt too big i think i was talking about if i made the website whoops bro
+
+security considerations - its hard to talk about security considerations as adobe xd is a prototype application and therefore this doesnt create an actual website, however this website does not store any user data 
 
 2. **Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.**
 
@@ -225,11 +229,7 @@ i think my website is quite suitable for my target audience, as its very visuall
 i think it couldve dove a little deeper into dystopian themes, especially for the graphics as i did plan more uncanny looking stuff but i decided not to as i considered the time I had due to the tasmania trip
 
 3. **Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.**
-I think my project clearly and directly addresses its social, ethical and legal responsibilities in relation to MaddAddam. 
-
-- on every footer i have addressed and gave legal credit to margaret atwood and her series which i think allows for clear and direct communication of my legal responsibilities
-- in terms of ethical i think i was very responsible as i added a clear trigger warning stating any themes that may concern users and gave them a button to select if they were consensual to continuing to interact with my project. i also made sure to also state at the footers that all the content is fictional to ensure users understand any concerning content is purely for entertainment and is not for any educational purposes
-- social - i think i neglected to consider my social responsiblities the most as although most of my text is quite readable, some areas are very small which erodes usability. i like that my colour palette is visually contrasting as its not only appealing but inclusive to people with poor vision. next time i think i could add audio sounds as well as text to speech buttons to ensure all users are immersed
+I think my project clearly and directly addresses its social, ethical and legal responsibilities in relation to MaddAddam. In terms of my legal responsibilities, I gave credit to Margaret Atwood and her series MaddAddam on the footers of every page. However, looking back I should have integrated some credit in the loading screen as well as not all users are bothered to read footers to ensure I fully address my legal obligations regarding using content from Atwood's series. I believe I was very thorough with my ethical responsibilities as I additionally added a trigger warning at the beginning of the user experience stating any themes that may concern users and gave them a button to select if they were consensual to continuining to interact with my project. The footers also addressed that this content was fictional as to not misdirect users and allow them to have a clear understanding of the purpose and content of the interface. On the other hand, I believe I neglected to consider my social responsibilities the most while making this project as although majority of the text is quite readable, some areas are very small which erodes usability. I do like that my colour palette is visually contrasting with the red and white as its appealing and inclusive to people with vision impairements, however next time I'd like to add audio sounds (for the animals), as well as text to speech buttons to ensure all users are immersed. Ultimately, my project aligns with all required responsibilities, but with some fine tuning and additional features, could further enhance an accessible user experience and address legal responsibilities in more detail.
 
 4. **Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.**
 
