@@ -147,18 +147,36 @@ Moving on, Vanessa and Yuna have provided valuable insight into how my project d
 Do you have any other feedback? (in terms of performance, accessibility, structure etc.) | no | no |
 
 #### User Testing Evaluation
-The feedback I received from my quesetionnaire was mostly positive, but I also received a lot of valuable insight in improving the UX moving forward with the project. Both responses outlined that the prototype is highly intuitive and user-friendly, with slight areas of improvement in terms of navigation (making a back button, making the logo a button). They stated that the design elements are very interesting and interactive, however it was not as accessible as it could be as it lacked clarity in how to interact with some of the elements such as the Splice Nexus.
+The feedback I received from my questionnaire was mostly positive, but I also received a lot of valuable insight in improving the UX moving forward with the project. Both responses outlined that the prototype is highly intuitive and user-friendly, with slight areas of improvement in terms of navigation (making a back button, making the logo a button). They stated that the design elements are very interesting and interactive, however it was not as accessible as it could be as it lacked clarity in how to interact with some of the elements such as the Splice Nexus.
 The advice I received from questionnaire responses were quite similar, as they both highlighted how they liked the layout but found some weaknesses in the interface's intuitiveness, which emphasises to me that for my prototype 2, I need to focus on bringing more clarity in user navigation and optimising features so the UI is not only interactive, but convenient/easy to use.
 
 ### Prototype 2
 #### User Testing and Feedback
 **Interview Responses: Vanessa**
-| **Vanessa** | **Yuna** |
+| Questions | Response | 
 |-|-| 
-| also i like how u guide people to click the elemtns so its very easy to use and navigate i like how the thingy on the pigs the oragns are like halftones so u know where to press and the layering is also really coolthe fade at the end of each page is really nice idk your graphicsx so good broi like how the top bar is consistent so u can quickly and conveniently switch and i love love the animations it makes it feel aniamted and jumpy and its coolDo you have anything else to add? : *"I like the consistent user warnings like at the very start and also how it's on the end of every single page"* |I like how you can click the organs for more information really cool and also how if you go back to the homescreen it like comes out form the top. i like ho everything is structured really well and veyr engaging. Alo very good drawings and i like thr trigger warning a lot. maybe make it so that if you press the logo you can also come back to the home screen?? very nive that you also put lik a fictional warning thing at the bototm of your screen. i also like how you can get more infromation itno the nimals by clicking them but the transitions can get a little bit dizzy but other than that its really nice. maybe put the click me thing at the top next to the first animal and not the last?? so that they can click as they go down not go down and then do it?? idk. maybe also find a way to get from the "splice nexus" to the 'about us; oage in one go without using the menu like a back button or smth. anywys rlly nice. heh i like it alot. its like on par with the one you can find online. nice. |
+| How intuitive do you find the program? | "very intuitive. it has the basic like website structure with the hamburger menu and stuff" |
+| What features helped the program feel more (or less) intuitive? | "I like the click me icons that guides people to click the elements so it's very easy to use and navigate.I also like how the pig's organs are half tones so you know where to press."|
+|Do you think the application will be accessible to a variety of abilities? | "yeah it has good contrast, lots of elements and little text" |
+|What did you think in terms of the design elements?| "You're graphics soo good bro. I love love the animations it makes it feel animated and jumpy and it's cool and the fade at the end of each page is really nice." | 
+| What features improved your user experience? | "I like the consistent user warnings like at the very start and also how it's on the end of every page. Also I like the font" |
+| Any other comments? | "I like how the top bar is consistent so you can quickly and conveniently switch" |
 
+
+**Interview Responses: Yuna**
+| Questions | Response |
+|-|-|
+| How intuitive do you find the program? | "It's intuitive and I like how structured everything is, it makes it easier to navigate" |
+| What features helped the program feel more (or less) intuitive? | "Maybe find a way to get from the 'splice nexus' and 'about us' page to the main catalogue without using the menu. Like if you press the logo, you can go back to homescreen? It made navigating a little bit annoying." |
+| What did you think in terms of the design elements? | "Very good drawings, very engaging and the transitions are okay" |
+| How do you think I can improve the transitions? | "Maybe tone down the bounce effect. It can get a little dizzy" |
+| Do you think the application would be accessible to a variety of abilities?| "Probably yeah."|
+| What features improved your user experience? | "The fictional warning thing at the bottom of the screen is very nice. I also liked how there were a lot of elements you could click for more information or going to a different page, it felt interactive and nice."|
+| Any other comments? | "I like it a lot. It's like on par with the ones you can find online. nice :)" |
 
 #### User Testing Evaluation
+The feedback I received from Vanessa and Yuna's feedback was (). The interview format allowed me to draw valuable feedback, especially surrounding non-functional aspects such as navigation and
+
 Analyse the key themes that emerged from user feedback and their overall impact on the project.
 
 Evaluate how intuitive and user-friendly the prototype was based on user feedback.
@@ -173,18 +191,19 @@ Evaluate the most critical areas for improvement and how they should be addresse
 
 ### Prototype 3
 #### User Testing and Feedback
+| Questions | Vanessa | Julienne |
+|--|--|--|
+| How cohesive is the design? (in terms of graphics, content, etc.)(1-5) | 5 | 4 |
+| What do you think of the overall website design and what improvements could be made? | "it's very cute. no improvements" | "the font is a bit boring and sometimes small, and the white background is eye shattering for people on high brightness. besides that its really good. The graphics are well thought out, especially the colour scheme."|
+| How intuitive do you find the interface? | 5 | 4 |
+| Has the intuitiveness improved from other prototypes? | Yes | Yes|
+| How immersive is the website in terms of its content (do you find it interesting?)(1-5) | 5 | 5 |
+| Rate the website overall based on its performance, aesthetics, consistency, accessibility etc. | 5 | 4 |
+| Do you have any other feedback/comments? |"I liked it better when you scroll to get to the organ prices, not the arrow" | "my brother said he could do better than u. prove the lil rat wrong!" |
+
 #### User Testing Evaluation
-Analyse the key themes that emerged from user feedback and their overall impact on the project.
+The user feedback I received for my final product was overall pretty consistently positive, with a general enthusiasm for the graphics and design choices, however getting new users brought out some different perspectives and advice on how I can further enhance my product in the future. I found that the user interface was quite intuitive for both my testers, with both stating it had improved from Prototype 2, revealing that I effectively followed previous feedback when working on this prototype. There were no complaints either in terms of the major design elements as I was also previously told that the click me indicators did help meet user needs and allowed for a more guided, user-friendly navigation. However, Vanessa pointed out that she found the new arrow function much more tedious than the previous scrolling function. I also initially didn't want to make this change, but this had to occur due to some bugs I found that happened when scrolling on the pigoon diagram (and Adobe XD didn't have many other solutions). On the other hand, Julienne did point out that the font was quite bland and its size was quite small at times, which indicates that my prototype could've definitely improved in terms of accessibility by next time enlarging some of the text to ensure it is readable for all abilities. I found that compared to the previous prototype when I used an interview format, I was able to draw much more thorough and valuable insight than this time, however I was able to receive more quantifiable feedback using a Google Forms survey, which will be important to consider next time when collecting user feedback. Ultimately, the critical areas of improvement for if this final prototype were to be made into a real-world product is to focus more on accessibility by enlarging text and creating additional features that could also cater to a larger variety of users.
 
-Evaluate how intuitive and user-friendly the prototype was based on user feedback.
-
-Analyse whether the design elements and accessibility features effectively met user needs.
-
-Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
-
-Analyse the similarities and differences between survey responses and interview insights to identify patterns.
-
-Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
 
 ### Ongoing Evaluation (weekly)
 **5/04/26 T1 Week 10**
@@ -198,29 +217,17 @@ Evaluate the most critical areas for improvement and how they should be addresse
 
 ### Final Evaluation
 1. **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
-functional - i got everything except the pigoon shopping catalogue as i was restricted in terms of experience with the program and resources that could get me the effect i wanted
 
-This prototype website will allow users to the MaddAddam series' themes of genetic modification through an interactive shopping catalogue of pigoon(genetically engineered pigs with a combination of pig and human genes) organ transplants. This will allow fans of Margaret Atwood and this series to wholly engage with the dark themes within this series and explore what a world such as the dystopia within MaddAddam would be like to experience and live in.
-stated purpose - the final application addresses the stated purpose, but very minimally. the shopping catalogue is not interactive. i believe that i was not able to immerse users fully in its 'dark' themes, it does seem a bit dystopian but i dont think it captures the essence that margaret atwood was creating in maddaddam
+My product meets the functional requirements I outlined adequately, with some future iterations that could be made. Most planned features from the stated purpose and design brief were successfully implemented. The website includes all major pages and navigation systems, and users are able to move through the application as intended. However, the Pigoon Shopping Catalogue did not fully meet my original design goals because it is not interactive due to my inexperience with Adobe XD. However, the catalogue still functions as a scrollable product display and contributes to the overall experience of the website. Additionally, I wasn't able to immerse users fully in MaddAddam's 'dark' and 'dystopian' themes as I intended as I don't think I captured the essence that Atwood created in the series. I believe if I created a vision board or created some additional sketches early on I would've been able to create a final product closer to Atwood's vision.  
 
-
-use case flows - 
-
-expected behaviours - 
+My use case flows changed radically from my original plans due to some insights that came from my peer feedback. Users found that my intial layout was hard to understand, so I had to restructure the final product a lot to make navigation more intuitive. So although it is quite different to my initial plan, it has been improved according to user needs, which is the utmost priority.
+The product also met most expected behaviours outlined in my test cases. Through both self-testing and peer-testing, which were the methods I planned in my test cases, I confirmed that navigation links and buttons functioned as intended and verified there were no unexpected bugs. However, I was not able to check the layout across multiple devices due to resource restrictions, so my website is not compatible across a variety of screen sizes, decreasing the accessibility of this project.
 
 
+On the other hand, I believe my final product all around addresses the non-functional requirements quite well, although I believe I could have improved its usability. In terms of performance, I implemented all features I outlined in my non-functional requirements, including the transitions, which makes the user experience more fluid and streamlined. I also created a loading screen after the trigger warning, which just overall creates a more immersive experience. Additionally, I believe my design choice of having a red and white colour palette is both suitable to the medical theme and highly contrasting, which promotes usability in the user interface. Although I additionally implemented proper heading structure and a clear layout as outlined in my non-functional requirements, the font sizing is often quite small and illegible for people with vision impairements, which interferes with creating an accessible user experience. 
+Furthermore, the reliability and security considerations I addressed in my project documentation is more difficult to relate to my final product as I did use Adobe XD to create a prototype of a website instead of building one with HTML code. In the reliability section of my non-functional requirements documentation, I stated that I would like to test my product across a variety of screens, however I do not have the resources nor time for this. This indicates that when starting this project, I should have found another more accessible method in ensuring my final product's reliability. Likewise, confirming my content is accurate to the book series the direct book author is quite ambitious and I believe I was probably referring to if this website was officially launched like I did in my security considerations.
+Similarly, it's hard to measure how well my final product compares to its security considerations as it is not an actual website, however its design is made to not store any user data, practising proper data minimisation. It would use HTTPS to ensure information is encrypted and secure from malicious actors. Overall, I fulfilled what I could considering my constraints in my non-functional requirements.
 
-On the other hand, I believe my final product all around addresses the non-functional requirements quite well, although I believe I could have improved its usability. In terms of performance, I implemented all features I outlined in my non-functional requirements, including the transitions, which makes the user experience more fluid and streamlined. I also created a loading screen after the trigger warning, which just overall creates a more immersive experience. 
-
-
-non functional - 
-usability - has consistent design and the colour palette red and white is suitable to the organ theme (looks medical) and is highly contrasting. it also has proper heading structure and a clear layout. the font is legible, however the sizing varies and is quite unreadable for people with vision impairements
-
-performance - is good, i included transitions for every page and it feels veyr fluid, it has a loading screen after the rigger warning whihc is nice i think
-
-reliability -no bro this is too much i dont have tha tmany screens bro i dreamt too big i think i was talking about if i made the website whoops bro
-
-security considerations - its hard to talk about security considerations as adobe xd is a prototype application and therefore this doesnt create an actual website, however this website does not store any user data 
 
 2. **Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.**
 
